@@ -25,8 +25,12 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.204:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@91.107.241.24:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#server_52
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.215:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#server_58
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.227:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#server_60
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@soccer120.info:2087?security=auto&type=ws&host=Tp245k485D.MIODeLbaR.cOM&path=%2F&sni=Tp245k485D.MIODeLbaR.cOM&alpn=h2,http/1.1&fp=chrome&encryption=none#server_62
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:2096?security=&type=ws&host=ZiWmPeJt9M.dMnEwNoD110.cOm&path=%2F&sni=ZiWmPeJt9M.dMnEwNoD110.cOm&alpn=h3,h2&fp=chrome&encryption=none#server_64
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@soccer120.info:2087?security=auto&type=ws&host=tp245gFjr7.MiodELbaR.coM&path=%2F&sni=tp245gFjr7.MiodELbaR.coM&alpn=h2,http/1.1&fp=chrome&encryption=none#server_69
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:8443?security=&type=ws&host=0HkXm863Yp.DmNeWnOd110.CoM&path=%2F&sni=0HkXm863Yp.DmNeWnOd110.CoM&alpn=h3,h2&fp=chrome&encryption=none#server_70
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@soccer120.info:2087?security=auto&type=ws&host=TP244iIMSp.yAZAhRA2.iNFo&path=%2F&sni=TP244iIMSp.yAZAhRA2.iNFo&alpn=h2,http/1.1&fp=chrome&encryption=none#server_71
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@soccer120.info:2087?security=auto&type=ws&host=tP244JRvUw.yazAHRA2.INfo&path=%2F&sni=tP244JRvUw.yazAHRA2.INfo&alpn=h2,http/1.1&fp=chrome&encryption=none#server_72
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.177:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#server_75
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.221:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#server_76
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@95.179.248.238:443?security=&type=tcp&host=&path=&sni=&alpn=&fp=&encryption=none#server_96
