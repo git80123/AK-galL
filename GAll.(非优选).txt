@@ -14,6 +14,8 @@ vless://f171d615-4544-4823-b049-369b9e655f58@185.146.173.63:8443?security=&type=
 vless://f171d615-4544-4823-b049-369b9e655f58@185.146.173.63:2096?security=&type=ws&host=v12a.engefreund.info&path=%2F&sni=v12a.engefreund.info&alpn=h3,h2&fp=chrome&encryption=none#server_14
 vless://f171d615-4544-4823-b049-369b9e655f58@185.146.173.63:8443?security=&type=ws&host=v15a.engefreund.info&path=%2F&sni=v15a.engefreund.info&alpn=h3,h2&fp=chrome&encryption=none#server_15
 vless://f171d615-4544-4823-b049-369b9e655f58@185.146.173.63:2096?security=&type=ws&host=v14a.engefreund.info&path=%2F&sni=v14a.engefreund.info&alpn=h3,h2&fp=chrome&encryption=none#server_16
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.zula.ir:8443?security=&type=ws&host=3KaGj3K4c1.DmNeWnOd110.CoM&path=%2F&sni=3KaGj3K4c1.DmNeWnOd110.CoM&alpn=h3,h2&fp=chrome&encryption=none#server_21
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.zula.ir:2096?security=&type=ws&host=Ma5N9eGvMa.DmNeWnOd110.CoM&path=%2F&sni=Ma5N9eGvMa.DmNeWnOd110.CoM&alpn=h3,h2&fp=chrome&encryption=none#server_23
 vless://0f7ac9e5-34f7-4e14-979e-efb00d6ae757@185.146.173.37:2096?security=auto&type=ws&host=li2.gozalshops.info&path=%2F&sni=li2.gozalshops.info&alpn=h2,http/1.1&fp=chrome&encryption=none#server_26
 vless://0f7ac9e5-34f7-4e14-979e-efb00d6ae757@185.146.173.37:2096?security=auto&type=ws&host=li4.gozalshops.info&path=%2F&sni=li4.gozalshops.info&alpn=h2,http/1.1&fp=chrome&encryption=none#server_28
 vless://0f7ac9e5-34f7-4e14-979e-efb00d6ae757@185.146.173.37:2096?security=auto&type=ws&host=li6.gozalshops.info&path=%2F&sni=li6.gozalshops.info&alpn=h2,http/1.1&fp=chrome&encryption=none#server_32
