@@ -1,5 +1,7 @@
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:8443?security=&type=ws&host=0HjE2cHqJ2.dMnEwNoD110.cOm&path=%2F&sni=0HjE2cHqJ2.dMnEwNoD110.cOm&alpn=h3,h2&fp=chrome&encryption=none#server_18
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?security=&type=ws&host=LyFaOhDmU7.dMnEwNoD110.cOm&path=%2F&sni=LyFaOhDmU7.dMnEwNoD110.cOm&alpn=h3,h2&fp=chrome&encryption=none#server_19
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.zula.ir:8443?security=&type=ws&host=3KaGj3K4c1.DmNeWnOd110.CoM&path=%2F&sni=3KaGj3K4c1.DmNeWnOd110.CoM&alpn=h3,h2&fp=chrome&encryption=none#server_21
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.zula.ir:2096?security=&type=ws&host=Ma5N9eGvMa.DmNeWnOd110.CoM&path=%2F&sni=Ma5N9eGvMa.DmNeWnOd110.CoM&alpn=h3,h2&fp=chrome&encryption=none#server_23
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:2096?security=&type=ws&host=BzWmHkHo.mIrPaShAlM.InFo&path=%2F&sni=BzWmHkHo.mIrPaShAlM.InFo&alpn=h2,http/1.1&fp=chrome&encryption=none#server_25
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:8443?security=&type=ws&host=BzWmHkHo.mIrPaShAlM.InFo&path=%2F&sni=BzWmHkHo.mIrPaShAlM.InFo&alpn=h2,http/1.1&fp=chrome&encryption=none#server_27
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:2096?security=&type=ws&host=HoQjVkAb.mIrPaShAlM.InFo&path=%2F&sni=HoQjVkAb.mIrPaShAlM.InFo&alpn=h2,http/1.1&fp=chrome&encryption=none#server_29
